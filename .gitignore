@@ -1,4 +1,5 @@
-# Gradle files
+# Gradl/workspaces/.github/.gitignore
+e files
 .gradle/
 build/
 .kotlin/
